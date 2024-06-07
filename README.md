@@ -13,7 +13,7 @@
 1. Clone The Repository
 
 ```bash
-git clone OmarHosamCodes/el-sala
+git clone https://github.com/OmarHosamCodes/el_sala
 ```
 
 2. Change Directory
